@@ -1,0 +1,20 @@
+﻿AppEMR
+
+
+winexe
+C#
+.cs
+D:\C# Project\AppEMR\AppEMR\obj\Debug\
+AppEMR
+none
+false
+DEBUG;TRACE
+D:\C# Project\AppEMR\AppEMR\App.xaml
+81104754312
+1764334995
+16241958851
+15282487294
+MainWindow.xaml;MenuWindow.xaml;MVVM\View\HomeView.xaml;MVVM\View\PatientListView.xaml;MVVM\View\RegisterPatientView.xaml;Theme\MenuButtonTheme.xaml;Theme\TextBoxStyle.xaml;Theme\TextBoxTheme.xaml;
+
+True
+

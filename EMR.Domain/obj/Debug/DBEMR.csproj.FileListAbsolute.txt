@@ -1,0 +1,33 @@
+D:\C# Project\AppEMR\DBEMR\bin\Debug\DBEMR.pdb
+D:\C# Project\AppEMR\DBEMR\obj\Debug\DBEMR.csprojAssemblyReference.cache
+D:\C# Project\AppEMR\DBEMR\obj\Debug\DBEMR.csproj.CoreCompileInputs.cache
+D:\C# Project\AppEMR\DBEMR\obj\Debug\DBEMR.pdb
+D:\C# Project\AppEMR\DBEMR\bin\Debug\DBEMR.dll.config
+D:\C# Project\AppEMR\DBEMR\bin\Debug\DBEMR.dll
+D:\C# Project\AppEMR\DBEMR\bin\Debug\Dapper.dll
+D:\C# Project\AppEMR\DBEMR\bin\Debug\System.Data.SQLite.dll
+D:\C# Project\AppEMR\DBEMR\bin\Debug\Dapper.xml
+D:\C# Project\AppEMR\DBEMR\bin\Debug\System.Data.SQLite.xml
+D:\C# Project\AppEMR\DBEMR\obj\Debug\DBEMR.csproj.CopyComplete
+D:\C# Project\AppEMR\DBEMR\obj\Debug\DBEMR.dll
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\DBEMR.dll.config
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\DBEMR.dll
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\DBEMR.pdb
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\Dapper.Contrib.dll
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\Dapper.dll
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\Dapper.FluentMap.dll
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\Dapper.SimpleCRUD.dll
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\DapperExtensions.dll
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\System.Data.SQLite.dll
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\Dapper.xml
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\Dapper.Contrib.xml
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\Dapper.FluentMap.xml
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\Dapper.SimpleCRUD.pdb
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\Dapper.SimpleCRUD.xml
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\DapperExtensions.pdb
+D:\Download\AppEMR\AppEMR\DBEMR\bin\Debug\System.Data.SQLite.xml
+D:\Download\AppEMR\AppEMR\DBEMR\obj\Debug\DBEMR.csprojAssemblyReference.cache
+D:\Download\AppEMR\AppEMR\DBEMR\obj\Debug\DBEMR.csproj.CoreCompileInputs.cache
+D:\Download\AppEMR\AppEMR\DBEMR\obj\Debug\DBEMR.csproj.CopyComplete
+D:\Download\AppEMR\AppEMR\DBEMR\obj\Debug\DBEMR.dll
+D:\Download\AppEMR\AppEMR\DBEMR\obj\Debug\DBEMR.pdb

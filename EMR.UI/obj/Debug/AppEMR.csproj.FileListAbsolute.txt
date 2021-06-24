@@ -1,0 +1,79 @@
+D:\C# Project\AppEMR\AppEMR\bin\Debug\AppEMR.exe.config
+D:\C# Project\AppEMR\AppEMR\bin\Debug\AppEMR.exe
+D:\C# Project\AppEMR\AppEMR\bin\Debug\AppEMR.pdb
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR.csprojAssemblyReference.cache
+D:\C# Project\AppEMR\AppEMR\obj\Debug\MainWindow.g.cs
+D:\C# Project\AppEMR\AppEMR\obj\Debug\App.g.cs
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR_MarkupCompile.cache
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR_MarkupCompile.lref
+D:\C# Project\AppEMR\AppEMR\obj\Debug\MainWindow.baml
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR.g.resources
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR.Properties.Resources.resources
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR.csproj.GenerateResource.cache
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR.csproj.CoreCompileInputs.cache
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR.exe
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR.pdb
+D:\C# Project\AppEMR\AppEMR\obj\Debug\Theme\MenuButtonTheme.baml
+D:\C# Project\AppEMR\AppEMR\obj\Debug\Theme\TextBoxTheme.baml
+D:\C# Project\AppEMR\AppEMR\obj\Debug\MVVM\View\HomeView.g.cs
+D:\C# Project\AppEMR\AppEMR\obj\Debug\MVVM\View\RegisterPatientView.g.cs
+D:\C# Project\AppEMR\AppEMR\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C# Project\AppEMR\AppEMR\obj\Debug\App.baml
+D:\C# Project\AppEMR\AppEMR\obj\Debug\MVVM\View\HomeView.baml
+D:\C# Project\AppEMR\AppEMR\obj\Debug\MVVM\View\RegisterPatientView.baml
+D:\C# Project\AppEMR\AppEMR\obj\Debug\MenuWindow.g.cs
+D:\C# Project\AppEMR\AppEMR\obj\Debug\MenuWindow.baml
+D:\C# Project\AppEMR\AppEMR\bin\Debug\LiteDB.db
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR_Content.g.cs
+D:\C# Project\AppEMR\AppEMR\bin\Debug\System.Data.SQLite.dll
+D:\C# Project\AppEMR\AppEMR\bin\Debug\DBEMR.pdb
+D:\C# Project\AppEMR\AppEMR\bin\Debug\System.Data.SQLite.xml
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR.csproj.CopyComplete
+D:\C# Project\AppEMR\AppEMR\bin\Debug\DBEMR.dll
+D:\C# Project\AppEMR\AppEMR\bin\Debug\Dapper.dll
+D:\C# Project\AppEMR\AppEMR\bin\Debug\DBEMR.dll.config
+D:\C# Project\AppEMR\AppEMR\bin\Debug\Dapper.xml
+D:\C# Project\AppEMR\AppEMR\obj\Debug\Theme\TextBoxStyle.baml
+D:\C# Project\AppEMR\AppEMR\obj\Debug\MVVM\View\PatientListView.g.cs
+D:\C# Project\AppEMR\AppEMR\obj\Debug\MVVM\View\PatientListView.baml
+D:\Download\AppEMR\AppEMR\AppEMR\bin\Debug\LiteDB.db
+D:\Download\AppEMR\AppEMR\AppEMR\bin\Debug\AppEMR.exe.config
+D:\Download\AppEMR\AppEMR\AppEMR\bin\Debug\AppEMR.exe
+D:\Download\AppEMR\AppEMR\AppEMR\bin\Debug\AppEMR.pdb
+D:\Download\AppEMR\AppEMR\AppEMR\bin\Debug\DBEMR.dll
+D:\Download\AppEMR\AppEMR\AppEMR\bin\Debug\System.Data.SQLite.dll
+D:\Download\AppEMR\AppEMR\AppEMR\bin\Debug\Dapper.dll
+D:\Download\AppEMR\AppEMR\AppEMR\bin\Debug\DBEMR.pdb
+D:\Download\AppEMR\AppEMR\AppEMR\bin\Debug\DBEMR.dll.config
+D:\Download\AppEMR\AppEMR\AppEMR\bin\Debug\System.Data.SQLite.xml
+D:\Download\AppEMR\AppEMR\AppEMR\bin\Debug\Dapper.xml
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\AppEMR.csprojAssemblyReference.cache
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\Theme\MenuButtonTheme.baml
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\Theme\TextBoxStyle.baml
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\Theme\TextBoxTheme.baml
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\MainWindow.g.cs
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\MenuWindow.g.cs
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\MVVM\View\HomeView.g.cs
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\MVVM\View\PatientListView.g.cs
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\MVVM\View\RegisterPatientView.g.cs
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\App.g.cs
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\AppEMR_Content.g.cs
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\AppEMR_MarkupCompile.cache
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\AppEMR_MarkupCompile.lref
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\App.baml
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\MainWindow.baml
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\MenuWindow.baml
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\MVVM\View\HomeView.baml
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\MVVM\View\PatientListView.baml
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\MVVM\View\RegisterPatientView.baml
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\AppEMR.g.resources
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\AppEMR.Properties.Resources.resources
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\AppEMR.csproj.GenerateResource.cache
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\AppEMR.csproj.CoreCompileInputs.cache
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\AppEMR.csproj.CopyComplete
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\AppEMR.exe
+D:\Download\AppEMR\AppEMR\AppEMR\obj\Debug\AppEMR.pdb
+D:\Download\AppEMR\AppEMR\AppEMR\bin\Debug\Dapper.SimpleCRUD.dll
+D:\Download\AppEMR\AppEMR\AppEMR\bin\Debug\Dapper.SimpleCRUD.pdb
+D:\Download\AppEMR\AppEMR\AppEMR\bin\Debug\Dapper.SimpleCRUD.xml

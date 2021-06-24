@@ -1,0 +1,17 @@
+D:\C# Project\AppEMR\AppEMR\bin\Debug\Images\MR.jpg
+D:\C# Project\AppEMR\AppEMR\bin\Debug\AppEMR.exe.config
+D:\C# Project\AppEMR\AppEMR\bin\Debug\AppEMR.exe
+D:\C# Project\AppEMR\AppEMR\bin\Debug\AppEMR.pdb
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMRUI.csprojAssemblyReference.cache
+D:\C# Project\AppEMR\AppEMR\obj\Debug\MainWindow.baml
+D:\C# Project\AppEMR\AppEMR\obj\Debug\MainWindow.g.cs
+D:\C# Project\AppEMR\AppEMR\obj\Debug\App.g.cs
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR_Content.g.cs
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR_MarkupCompile.cache
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR_MarkupCompile.lref
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR.g.resources
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR.Properties.Resources.resources
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMRUI.csproj.GenerateResource.cache
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMRUI.csproj.CoreCompileInputs.cache
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR.exe
+D:\C# Project\AppEMR\AppEMR\obj\Debug\AppEMR.pdb

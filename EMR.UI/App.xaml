@@ -1,0 +1,48 @@
+﻿<Application x:Class="EMR.UI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:EMR.UI"
+             xmlns:viewModel="clr-namespace:EMR.UI.MVVM.ViewModel"
+             xmlns:view="clr-namespace:EMR.UI.MVVM.View"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Theme/MenuButtonTheme.xaml"/>
+                <ResourceDictionary Source="Theme/TextBoxTheme.xaml"/>
+                <ResourceDictionary Source="Theme/TextBoxStyle.xaml"/>
+                <ResourceDictionary Source="Theme/ButtonSearchStyle.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <DataTemplate DataType="{x:Type viewModel:HomeViewModel}">
+                <view:HomeView/>
+            </DataTemplate>
+            
+            <DataTemplate DataType="{x:Type viewModel:RegisterPatientViewModel}" >
+                <view:RegisterPatientView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:PatientListViewModel}">
+                <view:PatientListView/>
+            </DataTemplate>
+            
+            <DataTemplate DataType="{x:Type viewModel:EditPatientViewModel}">
+                <view:EditPatientView/>
+            </DataTemplate>
+            
+            <DataTemplate DataType="{x:Type viewModel:DiagnosPatientViewModel}">
+                <view:DiagnosPatientView/>
+            </DataTemplate>
+            
+            <DataTemplate DataType="{x:Type viewModel:SettingsViewModel}">
+                <view:SettingsView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewModel:ReadPatientViewModel}">
+                <view:ReadPatientView/>
+            </DataTemplate>
+
+        </ResourceDictionary>
+         
+    </Application.Resources>
+</Application>

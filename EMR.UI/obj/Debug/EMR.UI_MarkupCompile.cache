@@ -1,0 +1,20 @@
+﻿EMR.UI
+
+
+winexe
+C#
+.cs
+D:\AppEMR-v Final\AppEMR-v\EMR.UI\obj\Debug\
+EMR.UI
+none
+false
+DEBUG;TRACE
+D:\AppEMR-v Final\AppEMR-v\EMR.UI\App.xaml
+13-13709087
+1764334995
+2631964646
+16503252826
+MainWindow.xaml;MenuWindow.xaml;MVVM\View\DiagnosPatientView.xaml;MVVM\View\EditPatientView.xaml;MVVM\View\HomeView.xaml;MVVM\View\PatientListView.xaml;MVVM\View\ReadPatientView.xaml;MVVM\View\RegisterPatientView.xaml;MVVM\View\SettingsView.xaml;Theme\ButtonSearchStyle.xaml;Theme\MenuButtonTheme.xaml;Theme\TextBoxStyle.xaml;Theme\TextBoxTheme.xaml;
+
+False
+
